@@ -5,7 +5,7 @@ This project demonstrates how to configure an **Amazon VPC** with public and pri
 ---
 ## Architecture
 
-![Architecture Diagram](Architecture.png)  
+![Architecture Diagram](Architecture.PNG)  
 
 ---
 
